@@ -1,0 +1,198 @@
+body {
+    background-image: url('../img/background.png');
+    background-size: cover;
+}
+.no-padding {
+    padding: 0;
+}
+.home-inner-wrap {
+    margin-top: 10px;
+    position: relative;
+    margin-left: 9%;
+    height: 660px;
+}
+ul {
+    list-style: none;
+}
+.home-inner-wrap ul li {
+    display: inline;
+}
+.absolute {
+    position: absolute;
+}
+nav li a:hover {
+    background-position: 1px 1px!important;
+}
+
+/*nav link image text*/
+a.home-logo {
+    background: url('../img/logo.png') no-repeat 0 0;
+    position: absolute;
+    top: 10px;
+    width: 196px;
+    height: 135px;
+
+}
+a.concept {
+    background: url('../img/concept_text.png') no-repeat 0 0;
+    position: absolute;
+    top: 60px;
+    width: 188px;
+    left: 690px;
+    height: 35px;
+
+}
+a.origin-text-home {
+    background: url('../img/origin_text.png') no-repeat 0 0;
+    position: absolute;
+    top: 248px;
+    width: 126px;
+    left: 100px;
+    height: 50px;
+}
+a.chef-text-home {
+    background: url('../img/chef_text.png') no-repeat 0 0;
+    position: absolute;
+    top: 269px;
+    width: 126px;
+    left: 540px;
+    height: 50px;
+}
+a.contact-text-home {
+    background: url('../img/contact_text.png') no-repeat 0 0;
+    position: absolute;
+    top: 246px;
+    width: 30px;
+    left: 860px;
+    height: 215px;
+}
+a.gallery-text-home {
+    background: url('../img/gallery_text.png') no-repeat 0 0;
+    position: absolute;
+    top: 406px;
+    width: 30px;
+    left: 50px;
+    height: 250px;
+}
+a.menu-text-home {
+    background: url('../img/menu_text.png') no-repeat 0 0;
+    position: absolute;
+    top: 320px;
+    width: 34px;
+    left: 243px;
+    height: 151px;
+}
+a.reservation-text {
+    background: url('../img/reservations_text.png') no-repeat 0 0;
+    position: absolute;
+    top: 432px;
+    width: 201px;
+    left: 343px;
+    height: 50px;
+}
+a.farm-to-plate-text-home {
+    background: url('../img/farm_to_plate_text.png') no-repeat 0 0;
+    position: absolute;
+    top: 503px;
+    width: 94px;
+    left: 457px;
+    height: 147px;
+}
+a.accolades-text-home {
+    background: url('../img/accolades_text.png') no-repeat 0 0;
+    position: absolute;
+    top: 477px;
+    width: 188px;
+    left: 683px;
+    height: 62px;
+}
+.fb {
+    background: url('../img/fb.png') no-repeat 0 0;
+    position: absolute;
+    top: 616px;
+    width: 29px;
+    left: 800px;
+    height: 28px;
+}
+.instagram {
+    background: url('../img/instagram.png') no-repeat 0 0;
+    position: absolute;
+    top: 616px;
+    width: 29px;
+    left: 837px;
+    height: 28px;
+}
+/*end nav link image text*/
+
+/*nav non link image*/
+.home-logo {
+    position: absolute;
+    top: 10px;
+}
+.bebek-home {
+    position: absolute;
+    top: 100px;
+    left: 140px;
+}
+.pohon-home {
+    position: absolute;
+    top: 10px;
+    left: 360px;
+}
+.penyaringan-home {
+    position: absolute;
+    top: 200px;
+}
+.jeruk-home {
+    position: absolute;
+    top: 235px;
+    left: 290px;
+}
+.nanas-home {
+    position: absolute;
+    top: 102px;
+    left: 651px;
+}
+.ikan-home {
+    position: absolute;
+    top: 308px;
+    left: 107px;
+}
+.buah-kembar-home {
+    position: absolute;
+    top: 476px;
+    left: 215px;
+}
+.jari-tangan-home {
+    position: absolute;
+    top: 331px;
+    left: 555px;
+}
+.saringan-bola-home {
+    position: absolute;
+    top: 547px;
+    left: 682px;
+}
+/*end nav non link image*/
+.footer-home {
+    border-top: 3px solid #484f64;
+    width: 865px;
+    margin-left: 140px;
+}
+.footer-home .text-left {
+    display: inline-block;
+    width: 180px;
+}
+.footer-home .text-right {
+    display: inline-block;
+    float: right;
+    color: #484f64;
+}
+.footer-home .text-left h3 {
+    margin-top: 10px;
+    color: #484f64;
+    font-family: serif;
+}
+.footer-home .text-right h4 {
+    font-family: serif;
+}
