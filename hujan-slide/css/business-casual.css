@@ -1,7 +1,7 @@
-/* body {
-    background-image: url('../img/background.png');
-    background-size: cover;
-} */
+body {
+    /*background-image: url('../img/background.png');
+    background-size: cover;*/
+}
 .no-padding {
     padding: 0;
 }
@@ -23,7 +23,9 @@ ul {
 nav li a:hover {
     background-position: 1px 1px!important;
 }
-
+a:hover {
+    background-position: 1px 1px!important;
+}
 /*nav link image text*/
 a.home-logo {
     background: url('../img/logo.png') no-repeat 0 0;
@@ -196,3 +198,114 @@ a.accolades-text-home {
 .footer-home .text-right h4 {
     font-family: serif;
 }
+.h100 {
+    height: 100%;
+}
+/*cheff page*/
+.ikan-setengah-cheff-page {
+    left: 160px;
+}
+.cheff-text-cheff-page {
+    left: -10px;
+    top: 140px;
+}
+a.back-to-menu-cheff-page {
+    background: url('../img/back-to-menu-cheff-page.png') no-repeat 0 0;
+    width: 81px;
+    height: 213px;
+    right: 50px;
+    top: 60px;
+}
+a.back-to-home-cheff-page {
+    background: url('../img/back-to-home-cheff-page.png') no-repeat 0 0;
+    width: 194px;
+    height: 50px;
+    right: 40px;
+    top: 675px;
+}
+.jeruk-setengah-cheff-page {
+    right: 0;
+    top: 420px;
+}
+.cheff-content {
+    top: 187px;
+    color: #484f64;
+    font-family: serif;
+}
+/*end cheff page*/
+
+/*concept page*/
+.pohon-concept-page {
+    top: 0;
+    left: 0;
+}
+.concept-text-page {
+    right: 0;
+    top: 150px;
+}
+.buah-kembar-concept-page {
+    right: 0;
+    bottom: 0;
+}
+a.back-to-menu-concept-page {
+    background: url('../img/back-to-menu-concept-page.png') no-repeat 0 0;
+    width: 194px;
+    height: 70px;
+    left: 30px;
+    top: 645px;
+}
+/*end concept page*/
+
+/*contact page*/
+.contact-map {
+    padding-top: 80px;
+}
+.contact-map img {
+    width: 100%;
+}
+.contact-text-contact-page {
+    top: 77px;
+    left: 13%;
+}
+.buah-kembar-contact-page {
+    right: 0;
+    top: 330px;
+}
+.ikan-contact-page {
+    bottom: 0;
+    right: 201px;
+}
+.jeruk-contact-page {
+    left: 0;
+    top: 588px;
+}
+.bebek-contact-page {
+    left: 37px;
+    top: 330px;
+}
+a.back-to-reservation-contact-page {
+    background: url('../img/back-to-reservation-contact-page.png') no-repeat 0 0;
+    width: 300px;
+    height: 65px;
+    right: 20px;
+    top: 18px;
+}
+a.back-to-home-contact-page {
+    background: url('../img/back-to-home-contact-page.png') no-repeat 0 0;
+    width: 44px;
+    height: 193px;
+    right: 20px;
+    top: 61px;
+}
+.footer-contact {
+    height: 180px;
+}
+/*end contact page*/
+
+/*menu page*/
+.menu-text a {
+    color: #484f64;
+    text-decoration: none;
+    font-family: serif;
+}
+/*end menu page*/

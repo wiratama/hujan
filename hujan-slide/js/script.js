@@ -1,7 +1,7 @@
 $( document ).ready( function() {
 	
 	var $container = $('#container');	
-	var element_li = ['contact','home','blog','about','menu','gallery','accolades'];
+	var element_li = ['home','concept','chef','menu','contact'];
 	
 	$('div.main').css( 'visibility', 'visible' );	
 	$container.stop().scrollTo('div.home');	
