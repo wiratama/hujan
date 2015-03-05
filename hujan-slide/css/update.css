@@ -16,7 +16,7 @@ body {
 }
 
 .container-hujan {
-	height:980px;
+	height:800px;
 	margin:0 auto;
 	overflow:hidden;
 	position:relative;
@@ -46,7 +46,7 @@ ul.scrollto {
 }
 
 .main {
-	height:980px;
+	height:800px;
 	letter-spacing:1px;
 	line-height:16px;
 	position:relative;
