@@ -40,13 +40,13 @@ body {
 }
 
 ul.scrollto {
-	height:2340px;
-	width:3780px;
+	height: 2340px;
+  	width: 4080px !important;
 	padding: 0px !important;
 }
 
 .main {
-	height:800px;
+	height:920px;
 	letter-spacing:1px;
 	line-height:16px;
 	position:relative;
@@ -104,6 +104,10 @@ a.back-to-home-contact-page135 {
     -ms-transform: rotate(135deg);
     -o-transform: rotate(135deg);
     transform: rotate(135deg);
+}
+
+a.back-to-home-accolades-page {
+	top: 630px !important;
 }
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {

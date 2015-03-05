@@ -23,7 +23,9 @@ ul {
 nav li a:hover {
     background-position: 1px 1px!important;
 }
-
+a:hover {
+    background-position: 1px 1px!important;
+}
 /*nav link image text*/
 a.home-logo {
     background: url('../img/logo.png') no-repeat 0 0;
@@ -196,3 +198,274 @@ a.accolades-text-home {
 .footer-home .text-right h4 {
     font-family: serif;
 }
+.h100 {
+    height: 100%;
+}
+/*cheff page*/
+.ikan-setengah-cheff-page {
+    left: 160px;
+}
+.cheff-text-cheff-page {
+    left: -10px;
+    top: 140px;
+}
+a.back-to-menu-cheff-page {
+    background: url('../img/back-to-menu-cheff-page.png') no-repeat 0 0;
+    width: 81px;
+    height: 213px;
+    right: 50px;
+    top: 60px;
+}
+a.back-to-home-cheff-page {
+    background: url('../img/back-to-home-cheff-page.png') no-repeat 0 0;
+    width: 194px;
+    height: 50px;
+    right: 40px;
+    top: 675px;
+}
+.jeruk-setengah-cheff-page {
+    right: 0;
+    top: 420px;
+}
+.cheff-content {
+    top: 187px;
+    color: #484f64;
+    font-family: serif;
+}
+/*end cheff page*/
+
+/*concept page*/
+.pohon-concept-page {
+    top: 0;
+    left: 0;
+}
+.concept-text-page {
+    right: 0;
+    top: 150px;
+}
+.buah-kembar-concept-page {
+    right: 0;
+    bottom: 0;
+}
+a.back-to-menu-concept-page {
+    background: url('../img/back-to-menu-concept-page.png') no-repeat 0 0;
+    width: 194px;
+    height: 70px;
+    left: 30px;
+    top: 645px;
+}
+/*end concept page*/
+
+/*contact page*/
+.contact-map {
+    padding-top: 80px;
+}
+.contact-map img {
+    width: 100%;
+}
+.contact-text-contact-page {
+    top: 77px;
+    left: 13%;
+}
+.buah-kembar-contact-page {
+    right: 0;
+    top: 330px;
+}
+.ikan-contact-page {
+    bottom: 0;
+    right: 201px;
+}
+.jeruk-contact-page {
+    left: 0;
+    top: 588px;
+}
+.bebek-contact-page {
+    left: 37px;
+    top: 330px;
+}
+a.back-to-reservation-contact-page {
+    background: url('../img/back-to-reservation-contact-page.png') no-repeat 0 0;
+    width: 300px;
+    height: 65px;
+    right: 20px;
+    top: 18px;
+}
+a.back-to-home-contact-page {
+    background: url('../img/back-to-home-contact-page.png') no-repeat 0 0;
+    width: 44px;
+    height: 193px;
+    right: 20px;
+    top: 61px;
+}
+.footer-contact {
+    height: 180px;
+}
+/*end contact page*/
+
+/*menu page*/
+.menu-text a {
+    color: #484f64;
+    text-decoration: none;
+    font-family: serif;
+}
+/*end menu page*/
+
+/*accolades page*/
+.kuping {
+    left: 306px;
+    top: 70px;
+}
+a.fb-accolades-page{
+    background: url('../img/fb-accolades.png') no-repeat 0 0;
+    width: 51px;
+    height: 50px;
+    left: 262px;
+    top: 167px;
+}
+a.instagram-accolades-page{
+    background: url('../img/instagram-accolades.png') no-repeat 0 0;
+    width: 55px;
+    height: 54px;
+    left: 262px;
+    top: 222px;
+}
+a.twitter-accolades-page{
+    background: url('../img/twitter-accolades.png') no-repeat 0 0;
+    width: 55px;
+    height: 54px;
+    left: 262px;
+    top: 335px;
+}
+a.press-accolades-page{
+    background: url('../img/press-accolades.png') no-repeat 0 0;
+    width: 124px;
+    height: 62px;
+    right: 174px;
+    top: 116px;
+}
+a.will-accolades-page{
+    background: url('../img/will-accolades.png') no-repeat 0 0;
+    width: 202px;
+    height: 62px;
+    right: 73px;
+    top: 236px;
+}
+a.mamasan-accolades-page{
+    background: url('../img/mamasan-accolades.png') no-repeat 0 0;
+    width: 69px;
+    height: 65px;
+    right: 200px;
+    top: 321px;
+
+}
+a.sarong-accolades-page{
+    background: url('../img/sarong-accolades.png') no-repeat 0 0;
+    width: 69px;
+    height: 65px;
+    right: 200px;
+    top: 400px;
+}
+a.eo-accolades-page{
+    background: url('../img/eo-accolades.png') no-repeat 0 0;
+    width: 120px;
+    height: 65px;
+    right: 217px;
+    top: 537px;
+}
+a.back-to-menu-accolades-page {
+    background: url('../img/back-to-menu-accolades.png') no-repeat 0 0;
+    width: 55px;
+    height: 330px;
+    left: 45px;
+    top: 51px;
+}
+a.back-to-home-accolades-page {
+    background: url('../img/back-to-home-accolades.png') no-repeat 0 0;
+    width: 234px;
+    height: 159px;
+    right: 0px;
+    top: 663px;
+}
+.saringan-bulat-accolades-page {
+    top: 0;
+    right: 100px;
+}
+.jeruk-setengah-accolades-page {
+    right: 0;
+    top: 266px;
+}
+.ikan-accolades-page {
+    left: 0;
+    top: 430px;
+}
+
+/*end accolades page*/
+
+/*farm to plate page*/
+.farm-to-plate-page{
+    top: 100px;
+}
+.jeruk-farm-to-plate{
+    top: 370px;
+    left: 0;
+}
+.buah-kembar-farm-to-plate-page {
+    left: 500px;
+}
+a.back-to-home-farm-page {
+    background: url('../img/back-to-home-cheff-page.png') no-repeat 0 0;
+    width: 200px;
+    height: 53px;
+    right: 30px;
+    top: 91px;
+}
+a.back-to-menu-farm-page {
+    background: url('../img/back-to-menu-concept-page.png') no-repeat 0 0;
+    width: 194px;
+    height: 70px;
+    left: 30px;
+    top: 645px;
+}
+/*end farm to plate page*/
+/*gallery page*/
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.gallery-wrap .col-md-12 {
+    margin-top: 40px;
+}
+.gallery-item {
+    height: 500px;
+    overflow: hidden;
+}
+.owl-buttons {
+    width: 160px;
+    border: 2px solid #484f64;
+    margin-left: 32px;
+    margin-top: 30px;
+}
+.owl-pagination {
+    display: none;
+}
+.ikan-gallery-page {
+    top: 633px;
+    left: 300px;
+}
+.pohon-gallery-page {
+    top: 467px;;
+    right: 0px;
+}
+.buah-kembar-gallery-page {
+    top: 0;
+    left: 200px;
+}
+.back-to-home-gallery-page {
+    background: url('../img/back-to-home-cheff-page.png') no-repeat 0 0;
+    width: 194px;
+    height: 70px;
+    left: 600px;
+    top: 629px;
+}
+/*end gallery*/
