@@ -67,6 +67,11 @@ li {
 	margin-left: 0px !important; 
 }
 
+.index-page {
+  display: table;
+  margin: 0 auto;
+}
+
 @media screen and (-webkit-min-device-pixel-ratio:0) {
 	.container {}
 }
