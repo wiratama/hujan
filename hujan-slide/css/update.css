@@ -21,8 +21,8 @@ body {
 	margin:0 auto;
 	overflow:hidden;
 	position:relative;
-	/*width:1260px;*/
-	width:1346px;
+	width:1260px;
+	/*width:1346px;*/
 }
 
 .ie8 .container {}
@@ -53,8 +53,8 @@ ul.scrollto {
 	line-height:16px;
 	position:relative;
 	visibility:hidden;
-	/*width:1260px;*/
-	width:1346px;
+	width:1260px;
+	/* width:1346px; */
 	word-spacing:1px;
 }
 
