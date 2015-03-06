@@ -16,12 +16,13 @@ body {
 }
 
 .container-hujan {
-	height:800px;
+	/*height:800px;*/
+	height:780px;
 	margin:0 auto;
 	overflow:hidden;
 	position:relative;
-	/*width:1260px;*/
-	width:1346px;
+	width:1260px;
+	/*width:1346px;*/
 }
 
 .ie8 .container {}
@@ -46,13 +47,14 @@ ul.scrollto {
 }
 
 .main {
-	height:920px;
+	/*height:800px;*/
+	height:780px;
 	letter-spacing:1px;
 	line-height:16px;
 	position:relative;
 	visibility:hidden;
-	/*width:1260px;*/
-	width:1346px;
+	width:1260px;
+	/*width:1346px;*/
 	word-spacing:1px;
 }
 
@@ -110,6 +112,10 @@ a.back-to-home-accolades-page {
 	top: 630px !important;
 }
 
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-	.container {}
+.owl-buttons {
+	width: 180px !important;
 }
+
+/*@media screen and (-webkit-min-device-pixel-ratio:0) {
+	.container {}
+}*/
