@@ -17,7 +17,7 @@ body {
 
 .container-hujan {
 	/*height:800px;*/
-	height:780px;
+	height:768px;
 	margin:0 auto;
 	overflow:hidden;
 	position:relative;
@@ -48,7 +48,7 @@ ul.scrollto {
 
 .main {
 	/*height:800px;*/
-	height:780px;
+	height:768px;
 	letter-spacing:1px;
 	line-height:16px;
 	position:relative;
@@ -109,7 +109,7 @@ a.back-to-home-contact-page135 {
 }
 
 a.back-to-home-accolades-page {
-	top: 630px !important;
+	top: 600px !important;
 }
 
 .owl-buttons {
@@ -121,7 +121,22 @@ a.back-to-home-accolades-page {
 }
 
 .back-to-home-gallery-page {
-	top: 689px;
+	top: 672px;
+	left: 662px;
+	-webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+a.back-to-menu-farm-page {
+	top: 638px;
+	-webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
 }
 
 .gallery-item {
@@ -130,6 +145,18 @@ a.back-to-home-accolades-page {
 
 .pohon-gallery-page {
 	top: 527px;
+}
+
+ul, ol {
+	margin-bottom: 0px !important;
+}
+
+.jeruk-contact-page {
+	top: 617px;
+}
+
+.ikan-contact-page {
+	top: 103px;
 }
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
